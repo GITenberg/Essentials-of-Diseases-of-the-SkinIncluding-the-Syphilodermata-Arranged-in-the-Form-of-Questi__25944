@@ -1,0 +1,29 @@
+_repo: Essentials-of-Diseases-of-the-SkinIncluding-the-Syphilodermata-Arranged-in-the-Form-of-Questi__25944
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stelwagon, Henry Weightman
+    birthdate: 1853
+    deathdate: 1919
+    gutenberg_agent_id: '31683'
+    url: http://www.gutenberg.org/2009/agents/31683
+description: ''
+gutenberg_issued: '2008-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RL'
+- !lcsh 'Skin -- Diseases'
+title: 'Essentials of Diseases of the Skin
+
+  Including the Syphilodermata Arranged in the Form of Questions and Answers Prepared
+  Especially for Students of Medicine'
+url: http://www.gutenberg.org/ebooks/25944
